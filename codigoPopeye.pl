@@ -26,8 +26,6 @@ brutus([5,10]).
 
 
 
-
-
 %                                       MOVIMENTAÇÃO                            %
 
 
